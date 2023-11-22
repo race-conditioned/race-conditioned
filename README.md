@@ -1,5 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working in Backend Engineering
-- 🌱 I’m currently learning Go and Rust in more depth
+- 🔭 I’m a freelance fullstack/dev-ops web engineer
+- 🌱 I’m currently learning Blockchain development
 - 📫 How to reach me: onlyorson@outlook.com
