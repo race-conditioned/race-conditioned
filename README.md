@@ -1,7 +1,3 @@
-# Orson's GitHub
-
-## About Me
-
 I'm a Fullstack and DevOps Web Engineer with a sharp focus on building robust solutions. I thrive in environments that demand innovation and efficiency.
 
 ### Expertise
