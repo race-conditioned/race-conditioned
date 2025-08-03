@@ -1,14 +1,28 @@
-I'm a Fullstack and DevOps Web Engineer with a sharp focus on building robust solutions. I thrive in environments that demand innovation and efficiency.
+### Full-Stack Software Engineer · Golang Specialist · Product-Minded Builder
 
-### Expertise
+Self-taught engineer building scalable software across fintech, AI, telecom, and internal tools. I thrive in early-stage environments where speed, clarity, and ownership matter. I care deeply about writing code that lasts.
 
-- **Golang**: Expert in crafting high-performance systems.
-- **Docker & Kubernetes**: Proficient in containerization and orchestration for scalable and resilient deployments.
-- **React**: Long-time user, building dynamic and responsive user interfaces.
-- **Arch Linux & Neovim**: My tools of choice for a powerful and efficient development setup.
-- **ETC** I have also worked with various languages and technologies.
+---
 
-### How to Reach Me
+## 💡 What I’m good at
 
-- **Email**: [onlyorson@outlook.com](mailto:onlyorson@outlook.com)
+- **Backend-heavy systems** with a focus on performance, reliability, and design clarity  
+- **Product thinking** — I build with intent, care about UX, and work closely with non-technical teams  
+- **AI and data** pipelines using LangChain, Python, DBT, and modern analytics stacks  
+- **Engineering leadership** — mentoring, reviewing, shipping fast while managing long-term risk  
+- **Stack:** Go, React (+Next), Postgres, MySQL, Supabase, Docker, Kubernetes, GCP, Deno
+
+---
+
+## 🛠️ Selected projects
+
+- 🧠 **AskJane** — LangChain-powered chatbot for customer support, at KareHero  
+- 📊 **Data Stack @ KareHero** — DBT + Fivetran + Looker analytics for Series A fundraising  
+- 📈 **Upcomers P&L Engine** — High-throughput equity reconciliation for funded traders  
+- 🌍 **Langfire** — Personal language learning platform with spaced repetition and YouTube parsing  
+- 📡 **Nautilus Billing** — Telecom billing system with real-time usage dashboards 
+
+---
+
+_Always open to exciting product-driven teams, founding engineer roles, or high-leverage IC positions in impactful domains._
 
