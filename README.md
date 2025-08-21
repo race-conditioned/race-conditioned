@@ -4,7 +4,7 @@ Self-taught engineer building scalable software across fintech, AI, telecom, and
 
 ---
 
-## 💡 What I’m good at
+## What I’m good at
 
 - **Backend-heavy systems** with a focus on performance, reliability, and design clarity  
 - **Product thinking** — I build with intent, care about UX, and work closely with non-technical teams  
@@ -14,13 +14,13 @@ Self-taught engineer building scalable software across fintech, AI, telecom, and
 
 ---
 
-## 🛠️ Selected projects
+## Wins at Work
 
-- 🧠 **AskJane** — LangChain-powered chatbot for customer support, at KareHero  
-- 📊 **Data Stack @ KareHero** — DBT + Fivetran + Looker analytics for Series A fundraising  
-- 📈 **Upcomers P&L Engine** — High-throughput equity reconciliation for funded traders  
-- 🌍 **Langfire** — Personal language learning platform with spaced repetition and YouTube parsing  
-- 📡 **Nautilus Billing** — Telecom billing system with real-time usage dashboards 
+- **AskJane** — LangChain-powered chatbot for customer support, at KareHero  
+- **Data Stack @ KareHero** — DBT + Fivetran + Looker analytics for Series A fundraising  
+- **Upcomers P&L Engine** — High-throughput equity reconciliation for funded traders  
+- **Langfire** — Personal language learning platform with spaced repetition and YouTube parsing  
+- **Nautilus Billing** — Telecom billing system with real-time usage dashboards 
 
 ---
 
